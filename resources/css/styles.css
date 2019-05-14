@@ -1,0 +1,50 @@
+.nepal,h3{
+      text-align: center;
+}
+a{
+      color: greenyellow;
+}
+.pang{
+          margin-left:700px;
+          border-radius: 50px;
+
+}
+.lorm{
+
+    /*margin-left: 100px;*/
+            margin-left: 150px;
+            padding: 100px;
+
+}
+h4{
+      margin-right: 322px;
+      color: white;
+}
+h3,h1{
+
+padding-bottom: 10px;
+
+}
+.web{
+  margin-left: 230px;
+      width: 72%;
+}
+.block{
+  width: 500px;
+}
+.staff{
+  padding: 10px;
+}
+.bed{
+  text-align: center
+  }
+.type_5 {
+border: 0;
+height: 55px;
+background-image: url(../image/pn.jpg);
+background-repeat: no-repeat;
+}
+.occ{
+ margin-left: 29px;
+ color: #66beca;
+}
