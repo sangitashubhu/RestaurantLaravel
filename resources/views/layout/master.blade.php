@@ -78,7 +78,7 @@
 <hr>
 <div class="nepal">
 <h1>ABOUT NEPAL KTM</h1>
-  ______________________________O_______________________________
+ <div class="line"> ______________________________O_______________________________</div>
 </div>
 <br>
 
@@ -151,8 +151,8 @@
   </div>
   <br>
   <div class="bed">
-    <h1>Type A – 3 Bedroom </h1>
-    ______________________o_______________________
+    <h1>Type A – Two Bedroom </h1>
+   <div class="line"> ______________________o_______________________</div>
 {{-- <hr class="type_5">
  --}}  </div>
  <br>
@@ -267,6 +267,58 @@ The space of the garden also allows conducting outdoor functions that may take u
 </div>
     </div>
    </div><br>
+   <br>
+   <div class="">
+    <div class="bed">
+    <h1>Type B – 3 Bedroom </h1>
+      
+      <div class="line">______________________o_______________________</div>
+   
+ </div> <br>
+    <div class="row">
+    <div class="col loree">
+       <img src="../images/bb.jpg"height="400" width="800">
+    
+    </div>
+    <div class="col">
+      <H5>Luxury  with Private Pool, B Unit</H5>
+      <p>
+This holiday Villa sleeps 8 people (Master Room with King bed, 1 Rooms with 2 single beds and 4 comfortable sofa beds at the living rooms). The villa has a large main living/dining room (9x7m), and another living room called “Arabic Majlis” (7x4m). Both living rooms have wonderful view at the garden and the pool. There are total of 4 bathrooms at this villa, 3 full bathrooms (with shower) for the bedrooms and the Arabic Majlis, and an extra half bathroom for the main living room. Daily clinging service, towels and bathroom accessories are provided. Our kitchens are fully equipped. They come with microwave, oven, stove, dishwasher, kettle, toaster, Refrigerator and all necessary cooking and serving appliances. The Villa also had a dedicated Laundry room with drier and iron table. 2 large wide screen TVs (60″) with central satellite system is made available at the living rooms. Phone system connecting rooms to each other’s and to the Reception is also available. The total built-up area of this villa is 250m2, allowing plenty of space for family gatherings and group meetings
+
+  </p>
+     
+    </div>
+  </div>
+   <div class="row">
+    <div class="col loree">
+     <img src="../images/pools.jpg"height="400" width="800">
+
+    </div>
+    <div class="col">
+
+      <p>The villa has 400m2 areas of private garden and private heated swimming pool with kids section. Half of the pool has wooden shad while the other half is exposed to the sun. The garden also has a shaded B.B.Q and with air-blower and a shaded outdoor setting area. The lighting system works perfectly at night to give the peaceful farm environment.
+
+The space of the garden also allows conducting outdoor functions that may take up to 70 guests. This villa is ideal for conducting corporate functions and family occasions (birthdays etc). Arrangements also can be made to rent the villa for one full day instead of overnight. High quality chairs and Tables with white cover can be rented for a price of 2 Rials per person.
+  </p>
+       
+    </div>
+  </div>
+   <div class="row">
+    <div class="col loree">
+     
+ <img src="../images/gee.jpg"height="400" width="800">
+  
+    </div>
+    <div class="col">
+      <h5>Guest access:</h5>
+          <p>
+Guests will have the entire Villa space with full privacy. 2 private shaded parking are made available to each villa. When renting the villa, access is made for the little guests to enjoy our kids’ corner where varieties of games are provided. In addition, villas are surrounded by asphalt roads allowing safe walking and biking. Variety of animals and birds sounds the farm that makes kids visit exceptionally enjoyable (Ostriches, Peacocks, Deer’s, ducks, Swans, in addition to Goat’s, Cows, Chicken and Dogs).
+  </p>
+      
+    </div>
+  </div>
+
+
 {{--         
 <div class="wrapper">
 <div class="slideshows">

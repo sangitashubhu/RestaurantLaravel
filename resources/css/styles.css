@@ -16,6 +16,9 @@ a{
             padding: 100px;
 
 }
+.nav{
+  color: #bfb6c0;
+}
 h4{
       margin-right: 322px;
       color: white;
@@ -67,6 +70,9 @@ background-repeat: no-repeat;
 .full{
    height: 716px;
 
+}
+.line{
+  color: gray;
 }
 
 
