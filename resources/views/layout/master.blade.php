@@ -193,29 +193,106 @@ The space of the garden also allows conducting outdoor functions that may take u
        <img src="../images/6-i.jpg"height="400" width="800">
     </div>
   </div>
+  <br>
   <div class="occ">
     Maximum occupancy_____________________________________________________________________________________________________________________________________Bed Configuration________________________________________________________________________________________
 </div>
 <br>
   <div class="row">
-    <div class="col lorm">
+    <div class="col lorm  blor">
     
       <p>08 Adults + 06 Children or 10 Adults
   </p>
     </div>
-    <div class="col">
-      <h5>One Master bed room with 1 King size bed<br>
+    <div class="col sofa">
+      <p>One Master bed room with 1 King size bed</p>
 
-Two Bed room with 4 single bed<br>
+      <p>Two Bed room with 4 single bed</p>
 
-Four Sofa cum beds at the leaving rooms<br>
+      <p>Four Sofa cum beds at the leaving rooms</p>
 
-Wifi and Outdoor Music System
-
-</h5>
+      <p>Wifi and Outdoor Music System</p>
 
     </div>
   </div>
+  <br>
+
+  <div class="row room"> 
+    <div class="col bade">
+      {{-- <img src="../images/bad.jpg"height="500" width=" 980"> --}}
+      <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-interval="10000">
+      <img src="../images/bad.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item" data-interval="2000">
+      <img src="../images/14.jpg" height="725" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../images/fo.jph" height="725" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+    </div>
+    <div class="col bade full">
+    {{--   <img src="../images/badroom.jpg"height="500" width="870"> --}}
+    <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-interval="10000">
+      <img src="../images/badroom.jpg "height="725" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item" data-interval="2000">
+      <img src="../images/bd.jpg" height="725" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../images/wo.jpg" height="725" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+    </div>
+   </div><br>
+{{--         
+<div class="wrapper">
+<div class="slideshows">
+  <div class="slideshow slideshow--hero">
+    <div class="slides">
+      <div class="slide slide1"></div>
+      <div class="slide slide2"></div>
+      <div class="slide slide3"></div>
+    </div>
+  </div>
+  <div class="slideshow slideshow--contrast slideshow--contrast--before">
+    <div class="slides">
+      <div class="slide slide1"></div>
+      <div class="slide slide2"></div>
+      <div class="slide slide3"></div>
+    </div>
+  </div>
+  <div class="slideshow slideshow--contrast slideshow--contrast--after">
+    <div class="slides">
+      <div class="slide slide1"></div>
+      <div class="slide slide2"></div>
+      <div class="slide slide3"></div>
+    </div>
+  </div>
+</div>
+  </div> --}}
 
 <script src="{{asset('js/all.js')}}"></script>
 
